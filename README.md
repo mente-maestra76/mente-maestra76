@@ -10,16 +10,17 @@
 ## 🚀 Tecnologías y Frameworks  
 - 🐘 **PHP** como lenguaje principal  
 - 📦 **Laravel**: construcción de aplicaciones modernas y robustas  
-- 📂 **FacturaScripts**: desarrollo de plugins personalizados y facturación electrónica FEL  
+- 📂 **FacturaScripts**: desarrollo de plugins personalizados.  
 - ⚡ **JavaScript, HTML, CSS, MySQL**  
 - 🛠️ Integración de **APIs REST** y automatización de procesos  
 
 ---
 
 ## 📌 Proyectos Destacados  
-- 🔹 Plugins para **FacturaScripts** con integración de facturación electrónica FEL (Guatemala).  
+- 🔹 Plugins para **FacturaScripts** con integración de Recurrente (pasarela de pago con tarjeta).  
 - 🔹 Aplicaciones empresariales con **Laravel** y **frameworks MVC**.  
 - 🔹 Soluciones personalizadas para **gestión administrativa, inventario y finanzas**.  
+- 🔹 Soluciones personalizadas para **gestión de mikrotiks para WISP e ISP**.  
 - 🔹 Desarrollo de herramientas para **ISPs** y sistemas de pagos recurrentes.  
 
 ---
